@@ -1,0 +1,19 @@
+body
+{
+	text-align: center;
+    background-image: url(salon-clases_995555-6.avif);
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: pink;
+	border-radius: 20px;
+}
+
+
+
+
